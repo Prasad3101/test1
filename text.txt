@@ -1,0 +1,13 @@
+ Volume in drive C is Windows
+ Volume Serial Number is FA53-1CE3
+
+ Directory of C:\Users\prasa\demo_git\test1
+
+08-03-2021  06:17 PM    <DIR>          .
+08-03-2021  06:17 PM    <DIR>          ..
+08-03-2021  06:01 PM               368 .gitignore
+08-03-2021  06:01 PM            11,558 LICENSE
+08-03-2021  06:01 PM                 7 README.md
+08-03-2021  06:17 PM                 0 text.txt
+               4 File(s)         11,933 bytes
+               2 Dir(s)  52,401,328,128 bytes free
